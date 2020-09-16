@@ -1,0 +1,23 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# My test files
+test*.py
+test*.ipynb
+
+# Deploy, bin folders
+deploy/
+bin/
+
+# My data folders:
+
+# Ignore whole folder
+data/ 
+
+
+# Compact code, bins
+*.tar
+
+# Python egg metadata, regenerated from source files by setuptools.
+*.egg-info
