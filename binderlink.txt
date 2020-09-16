@@ -1,0 +1,5 @@
+https://gesis.mybinder.org/binder/v2/gh/slovanos/MaestroC/6a7fea4f7a99e7f926b635bf0d260dfbcc6d2ccb
+
+https://notebooks.gesis.org/binder/jupyter/user/slovanos-maestroc-2tvcz4cs/notebooks/maestroC.ipynb
+
+https://github.com/slovanos/MaestroC
